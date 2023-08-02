@@ -1,0 +1,62 @@
+﻿@page
+@model WebApplication1.Models.RazorTestModel
+@{
+    ViewData["Title"] = "Razor test page";
+}
+
+<h1>Test Page</h1>
+
+
+
+<form method="post"  asp-controller="Test" asp-action="Index" >
+    
+    
+
+    <button type="submit" value="submit">Submit</button>
+</form>
+
+<h3>Testing some operations</h3>
+<h5>Maths operations</h5>
+@{
+    var x = 20;
+    var y = 10;
+    var sum = x + y; 
+}
+<p>x: @x, y: @y, sum: @sum</p>
+<h3>Array manipulation</h3>
+<h5>An array of 5 integers from 1 to 5</h5>
+@{
+    var myArray = new int[] { 1, 2, 3, 4, 5 };
+}
+<ul>
+    @foreach (var item in myArray)
+    {
+        <li>@item</li>
+    }
+</ul>
+<h5>An array of 5 strings Web, Technology, Practical, Week, One</h5>
+@{
+    var myStringArray = new String[] { "Web", "Technology", "Practical", "Week", "One" };
+}
+<ul>
+    @foreach (var word in myStringArray)
+    {
+        <li>@word</li>
+    }
+</ul>
+
+<h3>Object manipulation</h3>
+<h5>Object with coordination x,y (1,1)</h5>
+@{
+    var myObjectList = new { x = 1, y = 1 };
+}
+<ul>
+    <li>x: @myObjectList.x</li>
+    <li>y: @myObjectList.y</li>
+</ul>
+<h3>Using Tag helper</h3>
+<h5>Route config</h5>
+<a asp-controller="Test" asp-action="RazorTest" class="btn btn-success">My Link to RazorTest page</a>
+
+
+

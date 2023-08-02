@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Test/RazorTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFxSYXpvclRlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/ExampleItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZUl0ZW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/ExampleItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZUl0ZW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/ExampleItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZUl0ZW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/ExampleItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZUl0ZW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/ExampleItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZUl0ZW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Views/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lythe/Downloads/Web tech/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89/WebApplication1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r
