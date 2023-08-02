@@ -1420,7 +1420,6 @@ C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
@@ -1429,3 +1428,4 @@ C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\lythe\Downloads\Web tech\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\AmazonOrders-b2e6221b0546f0c65d8b41b79971d76aa3d2fb89\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
