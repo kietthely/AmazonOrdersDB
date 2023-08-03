@@ -20,9 +20,18 @@ namespace WebApplication1.Controllers
         }
 
         // GET: Items
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchText)
         {
-            var amazonOrdersContext = _context.Items.Include(i => i.Category);
+            var amazonOrdersContext = _context.Items.Include(i => i.Category).OrderBy(i => i.ItemName).AsQueryable();
+            ViewBag.searchText = searchText;
+            ViewData["maxNumberOfItems"] = _context.Items.Count();
+
+            if (!string.IsNullOrWhiteSpace(searchText))
+            { 
+                amazonOrdersContext = amazonOrdersContext.Where(i => i.ItemName.Contains(searchText));
+
+            }
+            
             return View(await amazonOrdersContext.ToListAsync());
         }
 

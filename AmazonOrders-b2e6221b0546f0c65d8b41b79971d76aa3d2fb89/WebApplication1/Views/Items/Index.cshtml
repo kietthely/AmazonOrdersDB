@@ -18,22 +18,41 @@
     </div>
 </div>
 
+<form asp-controller="Items" asp-action="Index">
+    <input type="text" name="searchText" value="@ViewBag.searchText" class="form-control" placeholder="Search products"/>
+
+    <a class="btn btn-outline-info" asp-action="Create" asp-controller="Items">Create a new Item</a>
+</form>
+
+<p>Items found: @Model.Count()/@ViewData["maxNumberOfItems"] </p>
+
+@{
+    if (Model.Count() == 0)
+    {
+        <p class="alert-info text-center">No items with the keywords provided!</p>
+    }
+}
 <div class="container">
     <div class="row row-cols-3 row-cols-md-3 g-4">
         @foreach (var item in Model)
         {
-        <div class="col">
-            <div class="card">
-                <img src="@item.ItemImage" class="card-img-top" alt="Item Image">
-                <div class="card-body">
-                    <h5 class="card-title">@item.ItemName</h5>
-                    <p class="card-text text-truncate">Description: @item.ItemDescription</p>
-                    <p class="card-text">Cost: @item.ItemCost</p>
-                    <p class="card-text">Category: @item.Category.CategoryId</p>
-                    <a asp-controller="Items" asp-action="Details" asp-route-id="@item.ItemId" class="btn btn-primary">View Item Details</a>
+            <div class="col">
+                <div class="card">
+                    <img src="@item.ItemImage" class="card-img-top" alt="Item Image">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ItemName</h5>
+
+
+                        <p class="card-text">Description: @(item.ItemDescription)</p>
+                        <p class="card-text">Cost: &#36 @item.ItemCost</p>
+                        <p class="card-text">Category: @item.Category.CategoryId</p>
+                        <a asp-controller="Items" asp-action="Details" asp-route-id="@item.ItemId" class="btn btn-primary">View Item Details</a>
+                    </div>
                 </div>
             </div>
-        </div>
         }
     </div>
 </div>
+
+
+<script src="~/js/site.js"></script>
